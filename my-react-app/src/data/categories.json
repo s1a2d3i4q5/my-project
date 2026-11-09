@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "id": "food",
+      "label": "Food & Groceries",
+      "color": "#F59E0B",
+      "icon": "food.svg"
+    },
+    {
+      "id": "transport",
+      "label": "Transport",
+      "color": "#3B82F6",
+      "icon": "transport.svg"
+    },
+    {
+      "id": "bills",
+      "label": "Bills & Utilities",
+      "color": "#EF4444",
+      "icon": "bills.svg"
+    },
+    {
+      "id": "shopping",
+      "label": "Shopping",
+      "color": "#EC4899",
+      "icon": "shopping.svg"
+    },
+    {
+      "id": "health",
+      "label": "Health",
+      "color": "#10B981",
+      "icon": "health.svg"
+    },
+    {
+      "id": "salary",
+      "label": "Salary",
+      "color": "#22C55E",
+      "icon": "salary.svg"
+    },
+    {
+      "id": "freelance",
+      "label": "Freelance",
+      "color": "#14B8A6",
+      "icon": "freelance.svg"
+    },
+    {
+      "id": "other",
+      "label": "Other",
+      "color": "#8B5CF6",
+      "icon": "other.svg"
+    }
+  ]
+}
